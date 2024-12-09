@@ -1,2 +1,2 @@
 # git-demo
-it is about git
+it is about git & github.
